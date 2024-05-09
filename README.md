@@ -16,4 +16,8 @@ After right clicking on the project and selecting Properties we can change the O
 - Output Directory - ``$(SolutionDir)Binaries\$(Platform)\$(Configuration)\``
 - Intermediate Directory - ``$(SolutionDir)Intermediates\$(Platform)\$(Configuration)\``
 
+![Project Properties](https://github.com/intrxx/CleanPP-Workspace/blob/main/Images/ProjectProperties.jpg)
+
+Inspiration video from [The Cherno](https://www.youtube.com/watch?v=qeH9Xv_90KM).
+
   
