@@ -8,6 +8,8 @@ First of all what I like to do is to check the "Place solution and project in th
 
 I Like to put my Main function in **Source** folder and all the .cpp and .h files in **Source\Private** and **Source\Public** folders respectively.
 
+![Folder Structure](https://github.com/intrxx/CleanPP-Workspace/blob/main/Images/FileStructure.jpg)
+
 ## Project Properties
 
 After right clicking on the project and selecting Properties we can change the Output Directory and Intermediate Directory. I like to changed mine to:
